@@ -1,0 +1,1 @@
+- Proyecto realizado con PHP y AJAX utilizando librerias de jQuery, Bootstrap y Sweet Alert
